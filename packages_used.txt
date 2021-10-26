@@ -1,0 +1,9 @@
+Packages to install:
+
+ggplot2
+ggpubr
+gganimate
+gifski
+scales
+rgdal
+dplyr
